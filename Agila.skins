@@ -77,5 +77,15 @@
         "Markdown Extended": {
             "color_scheme": "Packages/Agila Theme/Markdown/Neon Monocyanide Markdown.tmTheme"
         }
+    },
+
+    "Agila - Navy": {
+        "Preferences": {
+            "theme": "Agila Navy.sublime-theme",
+            "color_scheme": "Packages/Agila Theme/Electron Navy.tmTheme"
+        },
+        "Markdown Extended": {
+            "color_scheme": "Packages/Agila Theme/Markdown/Neon Monocyanide Markdown.tmTheme"
+        }
     }
 }
